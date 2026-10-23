@@ -1,0 +1,13 @@
+# Environnement Python (recréé par `uv sync`)
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Données intermédiaires (recréées par les notebooks)
+data/batiments_nettoyes.csv
+data/batiments_cible.csv
+
+# Archives et notes personnelles
+P3_template_modelistation_supervisee_data_scientist.ipynb
+NOTES_SEANCE.md
+Capture d'écran*.png
